@@ -10,6 +10,7 @@ Sérial number
 Date dernière utilisation
 Statut
 Localisation Stockage
+Referant
 Localisation Plateforme
 Service
 Version Soft
